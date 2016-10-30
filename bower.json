@@ -1,0 +1,21 @@
+{
+  "name": "node1608blog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "xingzhilin <550449252@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
